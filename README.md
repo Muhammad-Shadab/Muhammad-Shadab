@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Shadab;SDE+II+%40+NovoStack+%F0%9F%8F%A2;Android+%26+Flutter+Developer+%F0%9F%93%B1;Mobile+Engineer+Since+2021+%F0%9F%9A%80;FinTech+%7C+Lending+%7C+E-Commerce+%7C+Utility;Kotlin+%E2%80%A2+Java+%E2%80%A2+Dart;MVVM+%E2%80%A2+Clean+Architecture+%E2%80%A2+CI%2FCD;Play+Store+%26+App+Store+Publishing+%F0%9F%8F%AA;Bridging+Business+%26+Mobile+Engineering+%F0%9F%A4%9D;Based+in+Delhi%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Shadab+Saif;Flutter+Developer+%E2%80%A2+Android+Engineer;Open+Source+Creator+%F0%9F%94%93;Mobile+Engineer+Since+2021+%F0%9F%9A%80;Fintech+%7C+Loan+Processing+%7C+Consumer+Apps;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Java+%E2%80%A2+Dart;Mobile+Architecture+%26+Developer+Tools+%F0%9F%94%A7;AI-Powered+Mobile+Applications+%F0%9F%A4%96;Play+Store+%26+App+Store+Publishing+%F0%9F%8F%AA;Based+in+Delhi%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
 
 <br/>
 
@@ -10,18 +10,45 @@
   <a href="mailto:saifshadab08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
+<p><i>I build mobile applications, Flutter packages, and developer-focused solutions<br/>that help businesses transform ideas into production-ready products.</i></p>
+
 </div>
 
 ---
 
-### 🚀 About Me
+### 🙋 About Me
 
-- 🏢 **SDE II** at **NovoStack** — building scalable mobile products used across India
-- 📱 Building Android & Flutter apps since **2021** across **FinTech, Lending, E-Commerce, Utility & Consumer** domains
-- 🤝 I bridge the gap between **business requirements** and **production-ready mobile solutions**
-- 🏪 Hands-on with **Play Store & App Store** publishing, compliance & release automation
-- 🎓 **MCA** — Dr. A.P.J. Abdul Kalam Technical University
-- 📍 Based in **Delhi, India**
+- 📱 Building mobile applications with **Flutter** and **Android** since 2021
+- 🚀 Specialized in **Flutter, Kotlin, Java**, and Mobile Architecture
+- 🏦 Experienced in **Fintech, Loan Processing**, and Customer-Facing Applications
+- 🔧 Creating **Flutter Packages** and Developer Tools
+- 🌐 Active **Open Source** contributor and creator
+- 💡 Helping founders and stakeholders transform ideas into mobile products
+
+---
+
+### ✅ What I Do
+
+- Build **Flutter Applications** from scratch
+- Develop **Android Applications** using Kotlin & Java
+- Design reusable **SDKs and Packages**
+- Integrate **APIs, Payment Gateways, Analytics**, and Third-Party Services
+- Convert business requirements into **Scalable Mobile Solutions**
+- Create **Open-Source Tools** for the developer community
+
+---
+
+### 🎯 Current Focus
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white)
+![AI Mobile](https://img.shields.io/badge/AI--Powered%20Mobile-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![Mobile Architecture](https://img.shields.io/badge/Mobile%20Architecture-6D28D9?style=for-the-badge)
+![Dev Tools](https://img.shields.io/badge/Developer%20Productivity-0EA5E9?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -82,20 +109,6 @@
 
 ---
 
-### 🌍 Domains I've Built For
-
-<div align="center">
-
-![FinTech](https://img.shields.io/badge/FinTech-00B4D8?style=flat-square&logoColor=white)
-![Lending](https://img.shields.io/badge/Lending-0077B6?style=flat-square&logoColor=white)
-![E-Commerce](https://img.shields.io/badge/E--Commerce-F77F00?style=flat-square&logoColor=white)
-![Utility](https://img.shields.io/badge/Utility-2DC653?style=flat-square&logoColor=white)
-![Consumer](https://img.shields.io/badge/Consumer-7B2D8B?style=flat-square&logoColor=white)
-
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <div align="center">
@@ -108,5 +121,5 @@
 ---
 
 <div align="center">
-  <i>💡 "Turning business ideas into production-grade mobile experiences — one commit at a time."</i>
+  <i>💡 "Building products, not just apps."</i>
 </div>
