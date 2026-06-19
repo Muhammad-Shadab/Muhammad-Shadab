@@ -4,11 +4,9 @@
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Shadab&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/muhammadshadab7869"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:saifshadab08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=Muhammad-Shadab&label=Profile%20Views&color=0ea5e9&style=flat)](https://github.com/Muhammad-Shadab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shadab7869)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saifshadab08@gmail.com)
 
 <p><i>I build mobile applications, Flutter packages, and developer-focused solutions<br/>that help businesses transform ideas into production-ready products.</i></p>
 
@@ -113,7 +111,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shadab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadshadab7869)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Shadab-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shadab7869)
 [![Email](https://img.shields.io/badge/Email-saifshadab08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saifshadab08@gmail.com)
 
 </div>
