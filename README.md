@@ -74,9 +74,8 @@
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge)
 
-**DevOps & Publishing**
+**App Store Publishing & Release**
 
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 ![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
