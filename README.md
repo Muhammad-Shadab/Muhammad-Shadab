@@ -1,6 +1,10 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:6d28d9,100:0ea5e9&height=220&section=header&text=Muhammad%20Shadab&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SDE%20II%20%7C%20Android%20%26%20Flutter%20Developer&descSize=20&descAlignY=58&descAlign=50" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shadab;SDE+II+%7C+Android+%26+Flutter+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Building+scalable+mobile+apps+%F0%9F%9A%80;Android+%7C+Flutter+%7C+Kotlin+%7C+Java+%7C+Dart;FinTech+%7C+Lending+%7C+E-Commerce+%7C+Utility;4.5%2B+years+of+mobile+engineering+%F0%9F%93%B1;Play+Store+%26+App+Store+publishing+expert" alt="Typing SVG" />
+
+<br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Shadab&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
@@ -70,6 +74,26 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muhammad-Shadab/Muhammad-Shadab/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muhammad-Shadab/Muhammad-Shadab/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Muhammad-Shadab/Muhammad-Shadab/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Shadab&theme=tokyo-night&hide_border=true&area=true&area_color=0ea5e9" width="95%" />
+</div>
+
+---
+
 ### 💼 Experience
 
 | Role | Company | Period |
@@ -103,8 +127,4 @@
 
 </div>
 
----
-
-<div align="center">
-  <i>💡 "Turning business ideas into production-grade mobile experiences — one commit at a time."</i>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:0ea5e9,100:6d28d9&height=120&section=footer" width="100%"/>
