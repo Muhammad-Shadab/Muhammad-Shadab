@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <clipPath id="circle">
+      <circle cx="200" cy="200" r="200"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <circle cx="200" cy="200" r="200" fill="url(#bgGrad)"/>
+
+  <!-- Glow blobs -->
+  <circle cx="80"  cy="80"  r="90" fill="#0ea5e9" opacity="0.07"/>
+  <circle cx="320" cy="320" r="110" fill="#6d28d9" opacity="0.08"/>
+  <circle cx="340" cy="70"  r="60" fill="#0ea5e9" opacity="0.04"/>
+
+  <!-- Corner brackets (clipped to circle) -->
+  <g clip-path="url(#circle)" stroke-width="2.5" fill="none" opacity="0.5">
+    <path d="M 40 40 L 40 70 M 40 40 L 70 40"  stroke="#0ea5e9"/>
+    <path d="M 360 40 L 360 70 M 360 40 L 330 40" stroke="#0ea5e9"/>
+    <path d="M 40 360 L 40 330 M 40 360 L 70 360"  stroke="#6d28d9"/>
+    <path d="M 360 360 L 360 330 M 360 360 L 330 360" stroke="#6d28d9"/>
+  </g>
+
+  <!-- Phone body -->
+  <rect x="148" y="68" width="104" height="184" rx="14" fill="url(#accentGrad)" opacity="0.85"/>
+
+  <!-- Phone screen -->
+  <rect x="158" y="82"  width="84" height="152" rx="6" fill="#0f172a"/>
+
+  <!-- Notch -->
+  <rect x="183" y="74" width="34" height="6" rx="3" fill="#0f172a" opacity="0.6"/>
+
+  <!-- Code lines on screen -->
+  <rect x="165" y="94"  width="12" height="3.5" rx="1.5" fill="#0ea5e9"/>
+  <rect x="180" y="94"  width="36" height="3.5" rx="1.5" fill="#7c3aed"/>
+  <rect x="219" y="94"  width="15" height="3.5" rx="1.5" fill="#0ea5e9"/>
+
+  <rect x="170" y="104" width="28" height="3.5" rx="1.5" fill="#06b6d4"/>
+  <rect x="201" y="104" width="20" height="3.5" rx="1.5" fill="white" opacity="0.3"/>
+
+  <rect x="165" y="114" width="18" height="3.5" rx="1.5" fill="#0ea5e9"/>
+  <rect x="186" y="114" width="38" height="3.5" rx="1.5" fill="#7c3aed"/>
+
+  <rect x="170" y="124" width="48" height="3.5" rx="1.5" fill="#06b6d4" opacity="0.7"/>
+
+  <rect x="165" y="134" width="22" height="3.5" rx="1.5" fill="white" opacity="0.25"/>
+  <rect x="190" y="134" width="28" height="3.5" rx="1.5" fill="#0ea5e9"/>
+
+  <rect x="165" y="144" width="18" height="3.5" rx="1.5" fill="#0ea5e9"/>
+  <rect x="186" y="144" width="22" height="3.5" rx="1.5" fill="#7c3aed"/>
+  <rect x="211" y="144" width="15" height="3.5" rx="1.5" fill="#06b6d4"/>
+
+  <!-- Divider -->
+  <rect x="165" y="156" width="70" height="0.8" rx="0.4" fill="white" opacity="0.1"/>
+
+  <!-- App UI card -->
+  <rect x="165" y="162" width="70" height="22" rx="5" fill="#0ea5e9" opacity="0.18"/>
+  <rect x="170" y="168" width="38" height="3.5" rx="1.5" fill="#0ea5e9" opacity="0.9"/>
+  <rect x="170" y="175" width="25" height="2.5" rx="1.2" fill="white" opacity="0.25"/>
+
+  <!-- Two mini cards -->
+  <rect x="165" y="190" width="33" height="33" rx="6" fill="#7c3aed" opacity="0.28"/>
+  <rect x="202" y="190" width="33" height="33" rx="6" fill="#0ea5e9" opacity="0.28"/>
+
+  <!-- Home indicator -->
+  <rect x="181" y="228" width="38" height="3" rx="1.5" fill="white" opacity="0.25"/>
+
+  <!-- Floating icons left -->
+  <g opacity="0.7">
+    <rect x="60" y="155" width="34" height="34" rx="8" fill="#0ea5e9" opacity="0.15"/>
+    <text x="77" y="178" font-family="monospace" font-size="16" fill="#0ea5e9" text-anchor="middle">⌨</text>
+  </g>
+
+  <!-- Floating icons right -->
+  <g opacity="0.7">
+    <rect x="306" y="155" width="34" height="34" rx="8" fill="#6d28d9" opacity="0.15"/>
+    <text x="323" y="178" font-family="monospace" font-size="16" fill="#a78bfa" text-anchor="middle">📱</text>
+  </g>
+
+  <!-- Name -->
+  <text x="200" y="298" font-family="'Courier New', Courier, monospace" font-size="17" font-weight="bold" fill="white" text-anchor="middle" opacity="0.95">Muhammad Shadab</text>
+
+  <!-- Title with gradient simulation -->
+  <text x="200" y="320" font-family="'Courier New', Courier, monospace" font-size="11" fill="#0ea5e9" text-anchor="middle" letter-spacing="1">Flutter • Android Developer</text>
+
+  <!-- Tagline -->
+  <text x="200" y="342" font-family="'Courier New', Courier, monospace" font-size="9.5" fill="white" text-anchor="middle" opacity="0.4">Building products, not just apps.</text>
+
+  <!-- Dot decorations -->
+  <circle cx="100" cy="200" r="2.5" fill="#0ea5e9" opacity="0.35"/>
+  <circle cx="90"  cy="215" r="1.5" fill="#0ea5e9" opacity="0.2"/>
+  <circle cx="300" cy="200" r="2.5" fill="#6d28d9" opacity="0.35"/>
+  <circle cx="312" cy="215" r="1.5" fill="#6d28d9" opacity="0.2"/>
+</svg>
