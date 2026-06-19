@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Muhammad-Shadab/Muhammad-Shadab/main/profile-banner.svg" width="220" height="220" />
+
+<br/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Shadab+Saif;Flutter+Developer+%E2%80%A2+Android+Engineer;Open+Source+Creator+%F0%9F%94%93;Mobile+Engineer+Since+2021+%F0%9F%9A%80;Fintech+%7C+Loan+Processing+%7C+Consumer+Apps;Flutter+%E2%80%A2+Kotlin+%E2%80%A2+Java+%E2%80%A2+Dart;Mobile+Architecture+%26+Developer+Tools+%F0%9F%94%A7;AI-Powered+Mobile+Applications+%F0%9F%A4%96;Play+Store+%26+App+Store+Publishing+%F0%9F%8F%AA;Based+in+Delhi%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
 
 <br/>
