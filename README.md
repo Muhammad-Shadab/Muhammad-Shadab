@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shadab;SDE+II+%7C+Android+%26+Flutter+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hi+%F0%9F%91%8B%2C+I%27m+Muhammad+Shadab;SDE+II+%40+NovoStack+%F0%9F%8F%A2;Android+%26+Flutter+Developer+%F0%9F%93%B1;4.5%2B+Years+of+Mobile+Engineering+%F0%9F%9A%80;FinTech+%7C+Lending+%7C+E-Commerce+%7C+Utility;Kotlin+%E2%80%A2+Java+%E2%80%A2+Dart;MVVM+%E2%80%A2+Clean+Architecture+%E2%80%A2+CI%2FCD;Play+Store+%26+App+Store+Publishing+%F0%9F%8F%AA;Bridging+Business+%26+Mobile+Engineering+%F0%9F%A4%9D;Based+in+Delhi%2C+India+%F0%9F%93%8D" alt="Typing SVG" />
+
+<br/>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Muhammad-Shadab&label=Profile%20Views&color=0ea5e9&style=flat" alt="profile views" />
