@@ -45,6 +45,13 @@ I'm a Mobile Engineer with experience shipping production Android and Flutter ap
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge)
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge)
+![sqflite](https://img.shields.io/badge/sqflite-0175C2?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Architecture & Integration**
@@ -53,6 +60,24 @@ I'm a Mobile Engineer with experience shipping production Android and Flutter ap
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-6D28D9?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge)
 ![SDK Development](https://img.shields.io/badge/SDK%20Development-333333?style=for-the-badge)
+![Offline-First Sync](https://img.shields.io/badge/Offline--First%20Sync-333333?style=for-the-badge)
+![Shorebird](https://img.shields.io/badge/Shorebird%20Code%20Push-3A3A3A?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
+**Fintech Integrations**
+
+![NSDL](https://img.shields.io/badge/NSDL-0B5E8C?style=for-the-badge)
+![CIBIL/CRIF](https://img.shields.io/badge/CIBIL%2FCRIF-0B5E8C?style=for-the-badge)
+![Digio eKYC](https://img.shields.io/badge/Digio%20eKYC-0B5E8C?style=for-the-badge)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
+![Cashfree](https://img.shields.io/badge/Cashfree-00D09C?style=for-the-badge)
+![Fibe BNPL](https://img.shields.io/badge/Fibe%20BNPL-0B5E8C?style=for-the-badge)
+
+**Engagement & Monitoring**
+
+![CleverTap](https://img.shields.io/badge/CleverTap-28A3AF?style=for-the-badge)
+![MoEngage](https://img.shields.io/badge/MoEngage-F9683A?style=for-the-badge)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 **Release & Distribution**
 
@@ -70,8 +95,19 @@ Developer tooling I've built and published to automate parts of the Flutter rele
 
 | Project | Description |
 |---|---|
-| [**flutter_release_manager**](https://pub.dev/packages/flutter_release_manager) | Flutter CLI tool that automates version bumping and release-build generation for QA and stakeholder review. Published on pub.dev. |
-| [**flutter-release-automation**](https://github.com/Muhammad-Shadab/flutter-release-automation) | Single Bash script automating the full Android + iOS release workflow — building, locating artifacts, and generating shareable distribution links in one command. |
+| [**flutter_release_manager**](https://pub.dev/packages/flutter_release_manager) | Dart CLI that automates Flutter Android/iOS release packaging — Google Drive uploads via rclone OAuth, Diawi distribution for testers, environment-based (DEV/UAT/PROD) build routing, plus diagnostic and config-management commands. Published on pub.dev, with automated test coverage for core workflows. |
+
+---
+
+### Selected Projects
+
+| Project | What it is |
+|---|---|
+| [**Ruloans — B2B & B2C Lending**](https://muhammad-shadab.github.io/#projects) | Flutter/GetX lending platform (RuConnect partner app + consumer app). Co-developed two shared Flutter SDKs — a BRE SDK and a multi-lender Loan Journey SDK (20+ lenders) — plus a shared Dio/Retrofit networking package, CIBIL/CRIF bureau-pull, Digio eKYC, and an RBI-mandated Key Facts Statement screen. |
+| [**ShePays**](https://muhammad-shadab.github.io/#projects) | Fintech wallet (native Java/Android). Owned the FCM push pipeline, NSDL bank-account onboarding, Fibe BNPL and Cashfree integrations, and a security fix removing a vulnerable WebView library. |
+| [**Zyng Parks POS**](https://muhammad-shadab.github.io/#projects) | Offline-first Flutter POS for adventure parks — SQLite sync, Razorpay payments, Shorebird code push, Bluetooth thermal printing via a forked/patched plugin, native Sunmi AIDL printer integration. |
+| [**Aaonri**](https://muhammad-shadab.github.io/#projects) | Kotlin/Hilt community super-app — two-sided jobs marketplace, immigration forum, monetized classifieds, custom FCM pipeline, biometric unlock. |
+| [**Direct Credit**](https://muhammad-shadab.github.io/#projects) | Team-built Flutter loan-servicing app — integrated Digio eKYC/verification, the home loan journey, and the Help Center screen. |
 
 ---
 
@@ -79,9 +115,8 @@ Developer tooling I've built and published to automate parts of the Flutter rele
 
 | Role | Company | Period |
 |---|---|---|
-| **SDE II** | NovoStack | May 2025 – Present |
-| **SDE** | NovoStack | May 2022 – May 2025 |
-| **Android Developer** | Paytail | Nov 2021 – Feb 2022 |
+| **Senior Mobile Developer (SDE II)** | Novostack · Delhi | May 2022 – Present |
+| **Android Developer Intern** | Paytail | Nov 2021 – Feb 2022 |
 
 ---
 
