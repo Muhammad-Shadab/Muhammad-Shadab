@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shadab7869)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saifshadab08@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0EA5E9?style=flat&logo=googlechrome&logoColor=white)](https://muhammad-shadab.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-PDF-6D28D9?style=flat&logo=readthedocs&logoColor=white)](https://muhammad-shadab.github.io/Shadab_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-6D28D9?style=flat&logo=readthedocs&logoColor=white)](https://muhammad-shadab.github.io/Shadab_Saif_Mobile_Engineer_Android_Flutter_Resume.pdf)
 
 <p><i>Senior Android &amp; Flutter Engineer — building production fintech apps<br/>across lending, payments and KYC.</i></p>
 
